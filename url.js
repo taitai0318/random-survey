@@ -8,9 +8,10 @@
 
 
 const urls = [
-	'https://forms.gle/4fGngtcNBeXc9p2u7',
-	'https://forms.gle/bAKr8D5i6qJPGWKa7',
-	'https://forms.gle/sbY6wLSGYXy627Un9',
-	'https://forms.gle/UWbfaCoKsDhB57w16',
-	'https://forms.gle/9PzEdfa4MWidQ8hJ6',
+	'https://docs.google.com/forms/d/e/1FAIpQLSfLepokqPjRJTn2gNJqRZFudz1G8kueGwJh19xskVWigiPFVg/viewform',
+	'https://docs.google.com/forms/d/e/1FAIpQLSdib6HYeRg7N-1USD8xiPwlVxk9YYJ7O1uM9pjLCYDhlQyZeg/viewform',
+	'https://docs.google.com/forms/d/e/1FAIpQLSd8VjlCxge6hTf1S_w0PBQY483-wYfFaee7Qcye-ZZ1XLK37g/viewform',
+	'https://docs.google.com/forms/d/e/1FAIpQLSeTLGSOqaRX-07YmloTbWkevQnWzw4vCV2OFkSd8p3W-NxiZw/viewform',
+	'https://docs.google.com/forms/d/e/1FAIpQLSezgRCRG-rX7YlqFgGfBBoSQmc_0w0V4b7aWC1_krWr_hRL_Q/viewform',
+	'https://docs.google.com/forms/d/e/1FAIpQLSfpUZUxVVh66RqdDh8e0ri39keso-227Ed9hu78qo--COzgYw/viewform',
 ];
